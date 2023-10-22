@@ -1,0 +1,15 @@
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.CapaPresentacion.FormularioRegistroEmpleado.resources
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\bin\Debug\ParcialNomina.exe.config
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\bin\Debug\ParcialNomina.exe
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\bin\Debug\ParcialNomina.pdb
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.exe
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.pdb
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.CapaPresentacion.FormularioConsultaEmpleados.resources
+C:\Users\ASUS\OneDrive\Escritorio\C# Proyects\Parcial\ParcialNomina\ParcialNomina\obj\Debug\ParcialNomina.Form1.resources
